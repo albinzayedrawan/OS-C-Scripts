@@ -42,6 +42,6 @@ This project is designed to implement multiple C scripts within a virtualized op
 ---
 
 ## Requirements
-- Virtualized Operating System environment
-- GCC compiler for C language
-- Mutex library for thread synchronization
+- Virtualized Operating System environment.
+- GCC compiler for C language.
+- Mutex library for thread synchronization.
